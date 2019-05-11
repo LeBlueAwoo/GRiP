@@ -1,0 +1,16 @@
+GRiP is an acronym for Graphical Randomness in Python and, as the name suggests, 
+is a compilation of (reasonably) useful programs all written in Python.
+
+Included:
+* Terminal emulator
+* Clock
+* Calculator
+...and more!
+
+To run these, you will need the latest version of Python (though not necessarily IDLE)
+and the TkInter library for Python. That's all you need, as GRiP, when run, will install any missing modules automatically.
+
+For instructions, install GRiP and open 'Documentation' in 
+'Start Menu -> GRiP -> Documentation'
+
+Enjoy!
