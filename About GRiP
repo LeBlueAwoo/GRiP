@@ -13,4 +13,7 @@ and the TkInter library for Python. That's all you need, as GRiP, when run, will
 For instructions, install GRiP and open 'Documentation' in 
 'Start Menu -> GRiP -> Documentation'
 
+NOTE: Don't try running the .py files from IDLE, as you are likely to encounter graphical glitches.
+OTHER NOTE: Don't open the Source_Code folder unless you know what you're doing!
+
 Enjoy!
